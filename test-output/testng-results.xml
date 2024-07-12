@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-13T01:49:27 IST" name="Suite" finished-at="2024-07-13T01:49:48 IST" duration-ms="20521">
+    <groups>
+    </groups>
+    <test started-at="2024-07-13T01:49:27 IST" name="Test" finished-at="2024-07-13T01:49:48 IST" duration-ms="20521">
+      <class name="com.kiwiqa.extentreport.OrangeHRMExtentReport">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.kiwiqa.extentreport.OrangeHRMExtentReport@79924b]" started-at="2024-07-13T01:49:27 IST" name="setUp" finished-at="2024-07-13T01:49:41 IST" duration-ms="13932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.kiwiqa.extentreport.OrangeHRMExtentReport@79924b]" started-at="2024-07-13T01:49:41 IST" name="beforeMethod" finished-at="2024-07-13T01:49:41 IST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="login()[pri:1, instance:com.kiwiqa.extentreport.OrangeHRMExtentReport@79924b]" started-at="2024-07-13T01:49:41 IST" name="login" finished-at="2024-07-13T01:49:44 IST" duration-ms="2599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="verify()[pri:0, instance:com.kiwiqa.extentreport.OrangeHRMExtentReport@79924b]" started-at="2024-07-13T01:49:44 IST" name="verify" finished-at="2024-07-13T01:49:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.kiwiqa.extentreport.OrangeHRMExtentReport@79924b]" started-at="2024-07-13T01:49:44 IST" name="beforeMethod" finished-at="2024-07-13T01:49:44 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="addDetails()[pri:2, instance:com.kiwiqa.extentreport.OrangeHRMExtentReport@79924b]" started-at="2024-07-13T01:49:44 IST" name="addDetails" finished-at="2024-07-13T01:49:46 IST" duration-ms="1981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addDetails -->
+        <test-method is-config="true" signature="verify()[pri:0, instance:com.kiwiqa.extentreport.OrangeHRMExtentReport@79924b]" started-at="2024-07-13T01:49:46 IST" name="verify" finished-at="2024-07-13T01:49:46 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.kiwiqa.extentreport.OrangeHRMExtentReport@79924b]" started-at="2024-07-13T01:49:46 IST" name="afterClass" finished-at="2024-07-13T01:49:48 IST" duration-ms="1888" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.kiwiqa.extentreport.OrangeHRMExtentReport -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
